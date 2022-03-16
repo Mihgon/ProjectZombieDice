@@ -20,15 +20,6 @@ linhas()
 print(2 * ' ', 'Seja bem-vindo ao jogo Zombie Dice!')
 linhas()
 
-print('INTRODUCAO: Eh necessario pelo menos 2 jogadores e no maximo 8.\n'
-      'Vence quem fizer 13 pontos, todos devem ter jogado, se houver empate, estes jogarao mais uma rodada!\n'
-      'Na sua rodada pegue 3 dados aleatorios e jogue-os.\n'
-      'Voce pode optar por continuar jogango mas se levar 3 tiros, esta fora e perde seus pontos!\n'
-      'Caso continue jogando, seus tiros serao acumulados ate morrer, dados que tirar Passos serao jogados novamente.\n'
-      'Ao parar, seus cerebros serao contabilizados aos seus pontos.\n'
-      '')
-
-linhas()
 
 # Quantidade de jogadores
 numJogadores = 0
